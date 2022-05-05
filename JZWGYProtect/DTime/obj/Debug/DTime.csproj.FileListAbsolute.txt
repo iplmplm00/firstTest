@@ -1,0 +1,11 @@
+E:\vs\JZWGYProtect\DTime\bin\Debug\DTime.dll
+E:\vs\JZWGYProtect\DTime\bin\Debug\DTime.pdb
+E:\vs\JZWGYProtect\DTime\bin\Debug\Kingdee.BOS.Core.dll
+E:\vs\JZWGYProtect\DTime\bin\Debug\Kingdee.BOS.BusinessEntity.dll
+E:\vs\JZWGYProtect\DTime\bin\Debug\Kingdee.BOS.DataEntity.dll
+E:\vs\JZWGYProtect\DTime\bin\Debug\Kingdee.BOS.dll
+E:\vs\JZWGYProtect\DTime\bin\Debug\Newtonsoft.Json.dll
+E:\vs\JZWGYProtect\DTime\obj\Debug\DTime.csproj.CoreCompileInputs.cache
+E:\vs\JZWGYProtect\DTime\obj\Debug\DTime.csproj.CopyComplete
+E:\vs\JZWGYProtect\DTime\obj\Debug\DTime.dll
+E:\vs\JZWGYProtect\DTime\obj\Debug\DTime.pdb

@@ -1,0 +1,6 @@
+E:\vs\JZWGYProtect\Timer\bin\Debug\Timer.exe.config
+E:\vs\JZWGYProtect\Timer\bin\Debug\Timer.exe
+E:\vs\JZWGYProtect\Timer\bin\Debug\Timer.pdb
+E:\vs\JZWGYProtect\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+E:\vs\JZWGYProtect\Timer\obj\Debug\Timer.exe
+E:\vs\JZWGYProtect\Timer\obj\Debug\Timer.pdb
